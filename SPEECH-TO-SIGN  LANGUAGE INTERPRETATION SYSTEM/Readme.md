@@ -242,7 +242,7 @@ def play_video(video_path):
 ## 7.Snapshot of Project Output 
 
 Watch a demo of our Sign Language Interpretation system below:  
-[📂 View Demo Video (output1)](./output1.mp4)
+[📂 View Demo Video (output1)](https://drive.google.com/drive/folders/11b9SaNsXCi0N_iBXscmAXPOEkcAB8Un5)
 
 
 
